@@ -6,8 +6,9 @@
 
 ## Explain some of the Server Architectures that can be implemented with a GraphQL backend
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimgur.com%2FcRE6oeb.png&imgrefurl=https%3A%2F%2Fwww.howtographql.com%2Fbasics%2F3-big-picture%2F&docid=dPaMOedJnc2DSM&tbnid=a5LP6Ev5ip9kHM%3A&vet=10ahUKEwi9_4qQ8ojiAhVLK1AKHSP3DPIQMwhgKAkwCQ..i&w=783&h=187&bih=945&biw=1920&q=graphql%20architecture&ved=0ahUKEwi9_4qQ8ojiAhVLK1AKHSP3DPIQMwhgKAkwCQ&iact=mrc&uact=8)
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimgur.com%2FzQggcSX.png&imgrefurl=https%3A%2F%2Fwww.howtographql.com%2Fbasics%2F3-big-picture%2F&docid=dPaMOedJnc2DSM&tbnid=q5xz1Q-G3tMIHM%3A&vet=10ahUKEwi9_4qQ8ojiAhVLK1AKHSP3DPIQMwhXKAAwAA..i&w=906&h=686&bih=945&biw=1920&q=graphql%20architecture&ved=0ahUKEwi9_4qQ8ojiAhVLK1AKHSP3DPIQMwhXKAAwAA&iact=mrc&uact=8)
+![GraphQL server with a connected database](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimgur.com%2FcRE6oeb.png&imgrefurl=https%3A%2F%2Fwww.howtographql.com%2Fbasics%2F3-big-picture%2F&docid=dPaMOedJnc2DSM&tbnid=a5LP6Ev5ip9kHM%3A&vet=10ahUKEwi9_4qQ8ojiAhVLK1AKHSP3DPIQMwhgKAkwCQ..i&w=783&h=187&bih=945&biw=1920&q=graphql%20architecture&ved=0ahUKEwi9_4qQ8ojiAhVLK1AKHSP3DPIQMwhgKAkwCQ&iact=mrc&uact=8 | width=100)  
+![GraphQL layer that integrates existing systems](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimgur.com%2FzQggcSX.png&imgrefurl=https%3A%2F%2Fwww.howtographql.com%2Fbasics%2F3-big-picture%2F&docid=dPaMOedJnc2DSM&tbnid=q5xz1Q-G3tMIHM%3A&vet=10ahUKEwi9_4qQ8ojiAhVLK1AKHSP3DPIQMwhXKAAwAA..i&w=906&h=686&bih=945&biw=1920&q=graphql%20architecture&ved=0ahUKEwi9_4qQ8ojiAhVLK1AKHSP3DPIQMwhXKAAwAA&iact=mrc&uact=8 =100x)  
+![Hybrid approach with connected database and integration of existing system](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimgur.com%2F73dByTz.png&imgrefurl=https%3A%2F%2Fwww.howtographql.com%2Fbasics%2F3-big-picture%2F&docid=dPaMOedJnc2DSM&tbnid=NlR0lriNZEufBM%3A&vet=10ahUKEwi9_4qQ8ojiAhVLK1AKHSP3DPIQMwhYKAEwAQ..i&w=723&h=711&bih=945&biw=1920&q=graphql%20architecture&ved=0ahUKEwi9_4qQ8ojiAhVLK1AKHSP3DPIQMwhYKAEwAQ&iact=mrc&uact=8 )
 
 ## What is meant by the terms over- and under-fetching in relation to REST
 
