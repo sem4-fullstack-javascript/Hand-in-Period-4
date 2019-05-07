@@ -1,4 +1,5 @@
 [Back to Course Overview](https://sem4-fullstack-javascript.github.io/Fullstack-JavaScript/)
+
 # Hand-in-Period-4
 
 ## Explain shortly about GraphQL, its purpose and some of its use cases
@@ -11,11 +12,11 @@
 
 ## Explain shortly about GraphQL Schema Definition Language, and provide a number of examples of schemas you have defined
 
-## Explain shortly about GraphQL Schema Definition Language, and provide a number of examples of schemas you have defined.
+## Provide a number of examples demonstrating data fetching with GraphQL. You should provide examples both running in a Sandbox/playground and examples executed in an Apollo Client
 
 ## Provide a number of examples demonstrating creating, updating and deleting with Mutations. You should provide examples both running in a Sandbox/playground and examples executed in an Apollo Client
 
-## Provide a number of examples demonstrating creating, updating and deleting with Mutations. You should provide examples both running in a Sandbox/playground and examples executed in an Apollo Client
+## Explain the Concept of a Resolver function, and provide a number of simple examples of resolvers you have implemented in a GraphQL Server
 
 ## Explain the benefits we get from using a library like Apollo-client, compared to using the plain fetch-API
 
@@ -27,6 +28,6 @@
 
 ### Explain the purpose of the gql-function (imported from graphql-tag)
 
-## Explain the purpose of the gql-function (imported from graphql-tag)
+## In an Apollo-based React Component, demonstrate how to perform GraphQL Mutations
 
 ## Demonstrate and highlight important parts of a “complete” GraphQL-app using Express and MongoDB on the server side, and Apollo-Client on the client
